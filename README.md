@@ -17,4 +17,5 @@ after successful admin creation: -
 3. create semesters
 4. assign semester to student
 5. student register (Only student present in students table, are
-able to register and login into system) By 
+able to register and login into system) By clicking student register button
+6. registered student has default rule "student"
